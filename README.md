@@ -67,7 +67,7 @@ Complete end-to-end ML pipeline from raw data to Kaggle leaderboard.
 - Evaluation: Confusion Matrix, F1 (0.795), ROC-AUC (0.903)
 - Kaggle Public Score: **0.78229**
 
-[View Project →](./Week3-Classical-ML/Titanic-Survival-Prediction/)
+
 
 ---
 
@@ -84,7 +84,6 @@ End-to-end regression on the Ames Housing dataset (79 features).
 - Final blend: Ridge(25%) + Lasso(35%) + XGBoost(40%)
 - Validation R²: **0.923**
 
-[View Project →](./Week3-Classical-ML/House-Prices-Regression/)
 
 ---
 
@@ -100,7 +99,6 @@ Complete unsupervised learning project — K-Means, PCA, DBSCAN, SVM, Randomized
 - SVM — 97.5% accuracy classifying customers into segments
 - RandomizedSearchCV — honest finding that default parameters were already optimal
 
-[View Project →](./Week3-Classical-ML/Mall-Customer-Segmentation/)
 
 ---
 
