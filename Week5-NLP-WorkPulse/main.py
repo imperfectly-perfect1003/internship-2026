@@ -18,7 +18,10 @@ app = FastAPI(
 # CORS — allows React frontend to talk to this backend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # tighten this in production
+    allow_origins=[
+        "https://workpulse-frontend-pied.vercel.app",
+        "http://localhost:3000"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
