@@ -1,4 +1,10 @@
 # WorkPulse — Company Culture Sentiment Analyzer
+![CI](https://github.com/imperfectly-perfect1003/internship-2026/actions/workflows/ci.yml/badge.svg)
+![HuggingFace](https://img.shields.io/badge/🤗%20Model-Madhuri1003/workpulse--distilbert-yellow)
+![Vercel](https://img.shields.io/badge/Frontend-Vercel-black)
+![HF Spaces](https://img.shields.io/badge/Backend-HuggingFace%20Spaces-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![React](https://img.shields.io/badge/React-18-61dafb)
 
 > Fine-tuned DistilBERT on 838K real Glassdoor reviews to classify company culture as Positive, Negative, Neutral, or Mixed.
 
