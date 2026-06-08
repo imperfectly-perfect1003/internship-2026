@@ -6,6 +6,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![React](https://img.shields.io/badge/React-18-61dafb)
 
+📐 [Architecture Diagram](./architecture.md)
+
 > Fine-tuned DistilBERT on 838K real Glassdoor reviews to classify company culture as Positive, Negative, Neutral, or Mixed.
 
 ## 🔗 Live Links
