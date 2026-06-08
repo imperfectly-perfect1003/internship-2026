@@ -1,6 +1,3 @@
-I can see your current README content. Here's the updated version with all weeks properly filled in. Go to GitHub → `internship-2026` → click the pencil icon on `README.md` → replace everything with this:
-
-```markdown
 # ML/AI Internship Learning Journey
 ### Divya Madhuri Vemana | Started: April 6, 2025 | Zenitude Internship
 
@@ -173,5 +170,3 @@ Built personal portfolio site with Next.js, updated resume with quantified achie
 
 [View Portfolio →](https://portfolio-2026-indol-theta.vercel.app)
 ```
-
-Click **Commit changes** directly on GitHub. Done — no terminal needed.
